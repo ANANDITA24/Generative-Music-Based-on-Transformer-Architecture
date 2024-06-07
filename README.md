@@ -1,7 +1,8 @@
 # Generative-Music-Based-on-Transformer-Architecture
 
-<img width="580" alt="Music Generator UI" src="https://github.com/ANANDITA24/Generative-Music-Based-on-Transformer-Architecture/assets/86879723/e2d05825-ba30-4c61-a1ab-4878bba62283">
-
+<div align="center">
+  <img width="580" alt="Music Generator UI" src="https://github.com/ANANDITA24/Generative-Music-Based-on-Transformer-Architecture/assets/86879723/e2d05825-ba30-4c61-a1ab-4878bba62283">
+</div>
 ## Introduction
 
 Welcome to the Generative Music project, a novel approach to music composition using the Transformer architecture. This project leverages machine learning to create and transform musical compositions, pushing the boundaries of traditional music creation.
