@@ -1,0 +1,10 @@
+#@package __global__
+
+datasource:
+  max_channels: 2
+  max_sample_rate: 44100
+
+  evaluate: /content/audiocraft/egs/eval
+  generate: /content/audiocraft/egs/train
+  train: /content/audiocraft/egs/train
+  valid: /content/audiocraft/egs/eval
